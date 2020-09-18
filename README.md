@@ -2,7 +2,6 @@ GBPS Car Racing Game
 
 Copyright and general direction for use:
 
-- You can use this code for eduational purpose only..
 - You will not try to pass our hard work as your own..
 - We donot espect attribution but it will certainly make us happy..
 - If you benefit from this project, do share your experience with us, we would be
